@@ -5,7 +5,7 @@
 
 ## Autores  
 - Ademir Guimarães  
-- Kevin Oliveira  
+- Kevin Gomes
 - Pedro Carvalho  
 
 ## Data de Conclusão  
