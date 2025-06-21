@@ -68,7 +68,15 @@ Este projeto teve como objetivo principal realizar uma análise exploratória ap
 ---
 
 ## Conclusão  
-A sazonalidade dos casos de dengue em Manaus está fortemente associada às variações de temperatura. Períodos mais quentes criam condições favoráveis para o crescimento do mosquito *Aedes aegypti* e a propagação da doença. Este estudo reforça a importância do monitoramento integrado de dados epidemiológicos e climáticos para o planejamento estratégico de combate à dengue.
+Esses resultados indicam que a dinâmica dos casos de dengue em Manaus é complexa e provavelmente influenciada por múltiplos fatores além do clima, como:
+
+Infraestrutura urbana (escoamento de água, saneamento)
+
+Condições socioeconômicas
+
+Ações de combate e controle do mosquito
+
+Ciclos sazonais de imunidade da população
 
 ---
 
